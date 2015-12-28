@@ -1,0 +1,16 @@
+{
+  "name": "drupal-ckeditor-libraries-group/btbutton",
+  "description": "CKEditor 4 btbutton plugin",
+  "type": "drupal-library",
+  "keywords": ["ckeditor", "plugin", "btbutton"],
+  "homepage": "https://github.com/smonetti/btbutton",
+  "license": [
+    "GPL-2.0-or-later",
+    "LGPL-2.1-or-later",
+    "MPL-1.1"
+  ],
+  "support": {
+    "issues": "https://github.com/smonetti/btbutton/issues",
+    "source": "https://github.com/smonetti/btbutton/tree/master"
+  }
+}
